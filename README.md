@@ -1,10 +1,4 @@
-- 👋 Call me shiori
-- 👀 Language: Vietnamese & English (not too good)
-- 🌱 My Birth: 27/06/200...
-- 💞️ I'm still single
-- 📫 Always online on Discord: https://discord.com/users/197208316630401025
-- 😄 Discord Server Moderator / Manager
-- ⚡ Fully info: https://sh1ori.carrd.co
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Call+me+shiori;Discord+Server+Moderator+%2F+Managers;I'm+still+single;Language%3A+Vietnamese+%2F+English;https%3A%2F%2Fsh1ori.carrd.co)](https://git.io/typing-svg)
 
 <!---
 ShioriiOwO/ShioriiOwO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
